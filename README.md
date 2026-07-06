@@ -71,6 +71,7 @@ The focus is on AI governance practice: what regulated firms, healthcare operato
 - [Evidently AI](https://github.com/evidentlyai/evidently) - Open-source ML and LLM observability. Drift detection, data quality checks, and model performance monitoring with a Python-first API.
 - [Promptfoo](https://github.com/promptfoo/promptfoo) - Open-source LLM testing and red-teaming. Runs automated evaluations against prompts, catches regressions, and surfaces security vulnerabilities before deployment.
 - [Counterfit](https://github.com/Azure/counterfit) - Microsoft's command-line tool for security testing of AI systems. Implements adversarial ML attacks to assess robustness to evasion, poisoning, and extraction.
+- [CorvinOS](https://github.com/CorvinLabs/CorvinOS) - Self-hosted agentic OS with EU AI Act and GDPR compliance built into the runtime: a hash-chained audit log, a deny-by-default consent gate, and a GDPR Art. 17 erasure orchestrator, wired into an agent that runs across Discord, Telegram, WhatsApp, Slack, and Email. Apache 2.0.
 
 ## Commercial governance platforms
 
