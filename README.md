@@ -92,6 +92,7 @@ The focus is on AI governance practice: what regulated firms, healthcare operato
 - [Promptfoo](https://github.com/promptfoo/promptfoo) - LLM red-teaming and regression testing. Configurable attack strategies and automated evaluation pipelines.
 - [LlamaGuard](https://github.com/meta-llama/PurpleLlama/tree/main/Llama-Guard4) - Meta's open-source content-safety classification model (v4, latest). Designed to be used as an input-output safeguard in production LLM systems.
 - [Counterfit](https://github.com/Azure/counterfit) - Adversarial ML attack framework for assessing model robustness.
+- [Sentinel Scan CLI](https://github.com/Ventrova/sentinel-scan-cli) - Open-source scanner for MCP servers and agentic AI tool manifests. Detects tool poisoning, prompt injection surface, and rug-pulls; outputs OWASP LLM Top 10-mapped findings. MIT.
 
 ## Observability and audit tools
 
