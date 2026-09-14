@@ -70,6 +70,7 @@ The focus is on AI governance practice: what regulated firms, healthcare operato
 - [Giskard](https://github.com/Giskard-AI/giskard) - Open-source testing framework for ML models and LLM applications. Covers vulnerability scanning, bias detection, and robustness testing in one tool.
 - [Evidently AI](https://github.com/evidentlyai/evidently) - Open-source ML and LLM observability. Drift detection, data quality checks, and model performance monitoring with a Python-first API.
 - [Promptfoo](https://github.com/promptfoo/promptfoo) - Open-source LLM testing and red-teaming. Runs automated evaluations against prompts, catches regressions, and surfaces security vulnerabilities before deployment.
+- [Council of AI GSPC](https://github.com/CSOAI-ORG/councilof-ai) - Open-source public measurement board that publishes signed evidence cards, public roots, and an offline verifier. Practitioners can inspect measurement evidence without relying on the producer.
 - [Counterfit](https://github.com/Azure/counterfit) - Microsoft's command-line tool for security testing of AI systems. Implements adversarial ML attacks to assess robustness to evasion, poisoning, and extraction.
 
 ## Commercial governance platforms
