@@ -64,6 +64,7 @@ The focus is on AI governance practice: what regulated firms, healthcare operato
 ## Open-source primitives
 
 - [Nexuscone](https://github.com/aperintel/nexuscone) - Tamper-evident audit ledger with SHA-256 hash chain, optional Ed25519 signing, optional Bitcoin anchoring via OpenTimestamps. Apache 2.0.
+- [Kepil](https://github.com/oleg-vdv/kepil) - Runtime accountability layer for AI agents: a passport per agent version, a machine-readable mandate per job, a fail-closed gate that checks every action before a model is called, and an append-only hash-chained journal. The verifier is a separate implementation in a different language, so a regulated team is not asking an auditor to trust a log checked only by the tool that wrote it; AGPL-3.0, Python standard library only, no dependencies.
 - [OpenTimestamps](https://opentimestamps.org/) - Free Bitcoin-anchored timestamping. The substrate for cryptographic audit anchoring.
 - [Sigstore](https://www.sigstore.dev/) - Free signing infrastructure for software supply chains. Increasingly used in AI model attestation.
 - [in-toto](https://in-toto.io/) - Framework for protecting software supply chain integrity. Adjacent to AI provenance work.
