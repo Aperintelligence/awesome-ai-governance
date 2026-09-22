@@ -74,6 +74,7 @@ The focus is on AI governance practice: what regulated firms, healthcare operato
 
 ## Commercial governance platforms
 
+- [Allowly Hiring Evidence](https://allowly.ai/docs/solutions/hiring/) - Versioned hiring policy checks with human review, corrections, and signed decision records. Gives regulated teams portable evidence of the policy, inputs, and recorded outcome for each screening decision.
 - [Credo AI](https://www.credo.ai/) - Enterprise AI governance platform. Mature regulator-facing posture.
 - [Holistic AI](https://www.holisticai.com/) - EU AI Act focused governance platform.
 - [Fiddler AI](https://www.fiddler.ai/) - AI observability and audit platform.
