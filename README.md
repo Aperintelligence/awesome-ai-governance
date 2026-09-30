@@ -110,6 +110,7 @@ Agentic AI systems plan across multiple steps, call external tools, and act with
 - [NIST AI 600-1 Agentic Considerations](https://airc.nist.gov/Docs/1) - NIST's generative AI profile includes specific risk considerations for agentic systems: planning, tool use, goal pursuit, and multi-step reasoning.
 - [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) - Anthropic's open standard for connecting AI agents to tools and data sources. The de facto standard for agentic tool use; understanding it is prerequisite to auditing agentic systems.
 - [agentgateway](https://agentgateway.dev/) - Linux Foundation open-source proxy for MCP tool calls and agent-to-agent traffic. Includes an OPA policy engine, RBAC, and OTel emission. The governance control point for agentic tool use.
+- [Speakeasy](https://www.speakeasy.com/product/ai-control-plane) - Enterprise AI control plane for governing access, policy and auditability across agents, MCP servers and Skills. It enforces access policy on agent actions and records allow-or-deny decisions for audit.
 - [OpenTelemetry GenAI Semantic Conventions](https://opentelemetry.io/docs/specs/semconv/gen-ai/) - The emerging standard for emitting structured observability spans from AI and agent systems. Required reading for anyone building agentic audit infrastructure.
 - [AgentBench](https://github.com/THUDM/AgentBench) - Open-source benchmark for evaluating LLM agents on real-world tasks. Useful for establishing a performance baseline before regulated deployment.
 
