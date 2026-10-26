@@ -112,6 +112,7 @@ Agentic AI systems plan across multiple steps, call external tools, and act with
 - [agentgateway](https://agentgateway.dev/) - Linux Foundation open-source proxy for MCP tool calls and agent-to-agent traffic. Includes an OPA policy engine, RBAC, and OTel emission. The governance control point for agentic tool use.
 - [OpenTelemetry GenAI Semantic Conventions](https://opentelemetry.io/docs/specs/semconv/gen-ai/) - The emerging standard for emitting structured observability spans from AI and agent systems. Required reading for anyone building agentic audit infrastructure.
 - [AgentBench](https://github.com/THUDM/AgentBench) - Open-source benchmark for evaluating LLM agents on real-world tasks. Useful for establishing a performance baseline before regulated deployment.
+- [Speakeasy control plane](https://www.speakeasy.com/) - MCP gateway that applies enterprise identity roles to agent tool permissions and records tool calls. Gives regulated teams an access-control boundary and audit evidence for investigating agent actions.
 
 ## Bias, fairness and impact assessment
 
