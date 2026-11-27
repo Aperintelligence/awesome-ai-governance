@@ -63,6 +63,7 @@ The focus is on AI governance practice: what regulated firms, healthcare operato
 
 ## Open-source primitives
 
+- [AIGov Core](https://github.com/AIGovDev/aigov-core) - AGPL-3.0 Rust runtime for deterministic policy evaluation and tenant-scoped evidence ledgers. Its exports and hash-chain verifier help practitioners inspect recorded decisions and detect altered ledger data; they do not establish factual truth or regulatory compliance.
 - [Nexuscone](https://github.com/aperintel/nexuscone) - Tamper-evident audit ledger with SHA-256 hash chain, optional Ed25519 signing, optional Bitcoin anchoring via OpenTimestamps. Apache 2.0.
 - [OpenTimestamps](https://opentimestamps.org/) - Free Bitcoin-anchored timestamping. The substrate for cryptographic audit anchoring.
 - [Sigstore](https://www.sigstore.dev/) - Free signing infrastructure for software supply chains. Increasingly used in AI model attestation.
